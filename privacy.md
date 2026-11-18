@@ -5,7 +5,7 @@ title: Places Privacy Policy
 # Places Privacy Policy
 
 
-Last updated: 16 November 2026
+Last updated: 18 November 2026
 
 ## The short version
 
@@ -47,7 +47,8 @@ Places uses Apple services under Apple's privacy terms. Backups, exports and dia
 
 ## Photos
 
-- Places reads your photo library only after you turn on a photo setting in Settings › Photos or tap "Build from your photos". iOS asks for access the first time. Photos you pick for a trip film come through the system's photo picker, which doesn't open your library to Places.
+- With your permission, Places reads your library when you use a photo setting in Settings › Photos, tap "Build from your photos", or open the trip photo editor to see photos from those dates. You can also choose a photo for a trip or film with the system photo picker, which shows Places only the photo you select.
+- When you choose a photo for a trip, Places saves an optimized copy of it, without its location, with that trip on this iPhone, so it stays if you delete the original. These copies are included in your Places backups and data exports. Erasing the trip's dates or all Places data removes them. Choosing another photo or removing the photo doesn't change the original in Photos.
 - With "Show photos" on, Places shows your photos and videos on the timeline and map. They load from your library each time they're shown. This browsing does not copy, upload or change them.
 - When you add a photo or music file to a trip film, Places saves an optimized photo copy or the selected audio file with that video project on this iPhone. When you start a new film and Places can already see your library, it fills the film for you: it picks the trip's photos taken along the route, judging them on this iPhone, and saves the same kind of copies, without their locations. One Undo removes them. These copies are included in your Places backups and data exports. Erasing the source trip's dates or all Places data removes the project and its copies. Removing an item from a film keeps its copy available for Undo; this does not change the original in Photos or Files.
 - **Save Video to Photos** asks for add-only library access and adds the finished film when you choose it. Save to Files and Share use the destination you select. Rendered copies saved outside Places remain there until you remove them.
